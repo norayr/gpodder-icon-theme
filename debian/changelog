@@ -1,0 +1,35 @@
+gpodder-icon-theme (2.0-3) unstable; urgency=low
+
+  * Better optification (Closes: Maemo bug 6356)
+
+ -- Thomas Perl <thp@thpinfo.com>  Sun,  6 Dec 2009 22:59:25 +0100
+
+gpodder-icon-theme (2.0-2) unstable; urgency=low
+
+  * Use maemo-optify for Fremantle
+
+ -- Thomas Perl <thp@thpinfo.com>  Tue, 13 Oct 2009 14:50:37 +0200
+
+gpodder-icon-theme (2.0-1) unstable; urgency=low
+
+  * gPodder Icon Theme for gPodder 2.0
+
+ -- Thomas Perl <thp@thpinfo.com>  Tue, 15 Sep 2009 01:20:40 +0200
+
+gpodder-icon-theme (1.0-3) unstable; urgency=low
+
+  * Don't run gtk-update-icon-cache when building the .deb
+
+ -- Thomas Perl <thp@thpinfo.com>  Mon,  7 Sep 2009 14:01:16 +0200
+
+gpodder-icon-theme (1.0-2) unstable; urgency=low
+
+  * Fix debhelper version for Maemo 4 build
+
+ -- Thomas Perl <thp@thpinfo.com>  Mon,  7 Sep 2009 13:45:12 +0200
+
+gpodder-icon-theme (1.0-1) unstable; urgency=low
+
+  * Initial release for gPodder on Maemo
+
+ -- Thomas Perl <thp@thpinfo.com>  Mon, 07 Sep 2009 13:01:12 +0200

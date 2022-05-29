@@ -1,0 +1,174 @@
+[24x24/emblems]
+Type = Treshold
+Context = Emblems
+Size = 24
+
+[24x24/mimetypes]
+Type = Treshold
+Context = Mimetypes
+Size = 24
+
+[48x48/animations]
+Type = Treshold
+Context = Animations
+Size = 48
+
+[22x22/status]
+Type = Treshold
+Context = Status
+Size = 22
+
+[16x16/status]
+Type = Treshold
+Context = Status
+Size = 16
+
+[22x22/devices]
+Type = Treshold
+Context = Devices
+Size = 22
+
+[16x16/mimetypes]
+Type = Treshold
+Context = Mimetypes
+Size = 16
+
+[22x22/actions]
+Type = Treshold
+Context = Actions
+Size = 22
+
+[8x8/emblems]
+Type = Treshold
+Context = Emblems
+Size = 8
+
+[24x24/apps]
+Type = Treshold
+Context = Apps
+Size = 24
+
+[24x24/categories]
+Type = Treshold
+Context = Categories
+Size = 24
+
+[24x24/status]
+Type = Treshold
+Context = Status
+Size = 24
+
+[Icon Theme]
+Directories = 22x22/emblems,22x22/actions,22x22/categories,22x22/apps,22x22/animations,22x22/status,22x22/mimetypes,22x22/devices,24x24/emblems,24x24/actions,24x24/categories,24x24/apps,24x24/status,24x24/mimetypes,24x24/devices,32x32/emblems,32x32/actions,32x32/categories,32x32/animations,32x32/status,32x32/mimetypes,32x32/devices,16x16/emblems,16x16/actions,16x16/categories,16x16/apps,16x16/animations,16x16/status,16x16/mimetypes,16x16/devices,8x8/emblems,48x48/actions,48x48/animations,20x20/actions
+Name = gpodder
+
+[22x22/categories]
+Type = Treshold
+Context = Categories
+Size = 22
+
+[24x24/devices]
+Type = Treshold
+Context = Devices
+Size = 24
+
+[16x16/categories]
+Type = Treshold
+Context = Categories
+Size = 16
+
+[20x20/actions]
+Type = Treshold
+Context = Actions
+Size = 20
+
+[32x32/emblems]
+Type = Treshold
+Context = Emblems
+Size = 32
+
+[32x32/categories]
+Type = Treshold
+Context = Categories
+Size = 32
+
+[16x16/devices]
+Type = Treshold
+Context = Devices
+Size = 16
+
+[16x16/apps]
+Type = Treshold
+Context = Apps
+Size = 16
+
+[22x22/animations]
+Type = Treshold
+Context = Animations
+Size = 22
+
+[22x22/emblems]
+Type = Treshold
+Context = Emblems
+Size = 22
+
+[16x16/emblems]
+Type = Treshold
+Context = Emblems
+Size = 16
+
+[22x22/apps]
+Type = Treshold
+Context = Apps
+Size = 22
+
+[32x32/devices]
+Type = Treshold
+Context = Devices
+Size = 32
+
+[24x24/actions]
+Type = Treshold
+Context = Actions
+Size = 24
+
+[16x16/animations]
+Type = Treshold
+Context = Animations
+Size = 16
+
+[32x32/status]
+Type = Treshold
+Context = Status
+Size = 32
+
+[16x16/actions]
+Type = Treshold
+Context = Actions
+Size = 16
+
+[32x32/animations]
+Type = Treshold
+Context = Animations
+Size = 32
+
+[32x32/actions]
+Type = Treshold
+Context = Actions
+Size = 32
+
+[48x48/actions]
+Type = Treshold
+Context = Actions
+Size = 48
+
+[22x22/mimetypes]
+Type = Treshold
+Context = Mimetypes
+Size = 22
+
+[32x32/mimetypes]
+Type = Treshold
+Context = Mimetypes
+Size = 32
+

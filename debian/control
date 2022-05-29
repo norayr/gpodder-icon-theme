@@ -1,0 +1,16 @@
+Source: gpodder-icon-theme
+Section: support
+Priority: extra
+Maintainer: Thomas Perl <thp@thpinfo.com>
+Build-Depends: debhelper (>= 5), libgtk2.0-bin
+Standards-Version: 3.8.1
+Homepage: http://gpodder.org/
+
+Package: gpodder-icon-theme
+Architecture: all
+Depends: ${misc:Depends}
+Description: Icon theme for gPodder
+ This package combines selected icons from the gnome-icon-theme
+ and GTK+ stock icons into a separate package that can be used
+ with gPodder on Maemo to provide a good-looking user experience.
+
